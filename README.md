@@ -18,7 +18,7 @@ Chan
 
 
 ### Link to final project repository:
-[Actual Repo Link (Not the current repo you're on)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-wc2184/tree/main/src)
+[https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-wc2184/tree/main/src](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-wc2184/tree/main/src)
 
 ### Does your application require login or are their special instructions for using the form? If so, add the login and username here or write up your step-by-step instructions below:
 
