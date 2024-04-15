@@ -1,4 +1,5 @@
-# finalproj
+# AIT - Milestone #2
+
 
 [Actual Repo Link (Not the current repo you're on)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-wc2184/tree/main/src)
 
