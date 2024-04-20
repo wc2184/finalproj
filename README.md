@@ -1,3 +1,22 @@
+# AIT - Milestone #3
+[https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184)
+
+### URL for first form from milestone #2 (this should take you to a functioning form that's not registration or login)
+https://github.com/wc2184/finalproj/tree/main
+
+### Are there any notes you'd like to add for submitting the form (what data should we try, should we be logged in, and if so, what's the username and password)?
+
+### URL for second form:
+
+### Notes for second form:
+
+### URL to github that shows all commits since milestone #2 (see instructions at top of form), which should include any additional work you've done for research topics:
+
+### Add any special instructions for graders here (for example: outlining a specific interaction with your site, using specific credentials for authorization, etc.):
+
+### References / Resources Used (write down any urls for documentation, tutorials, etc. that you've based your code off of):
+
+<!--
 # AIT - Milestone #2
 [https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184)
 
@@ -41,4 +60,5 @@ https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184/blo
 
 ### References: If applicable, links to annotated lines of code in github repository that were based off of tutorials / articles / sample projects:
 React Router Docs: 
-https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184/blob/3897451b9f63f852aab91d07a487a977cf0c8274/my-react-app/src/index.js#L24
+https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184/blob/3897451b9f63f852aab91d07a487a977cf0c8274/my-react-app/src/index.js#L24 
+--->
