@@ -1,7 +1,7 @@
 # AIT - Milestone #3
 <!-- [https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184) -->
 
-### URL for first form from milestone #2 (this should take you to a functioning form that's not registration or login)
+### URL for first form from milestone #2 (this should take you to a functioning form that's not registration or login):
 http://linserv1.cims.nyu.edu:23505/form
 
 ### Are there any notes you'd like to add for submitting the form (what data should we try, should we be logged in, and if so, what's the username and password)?
