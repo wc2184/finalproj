@@ -5,16 +5,24 @@
 http://linserv1.cims.nyu.edu:23505/form
 
 ### Are there any notes you'd like to add for submitting the form (what data should we try, should we be logged in, and if so, what's the username and password)?
+No
 
 ### URL for second form:
+http://linserv1.cims.nyu.edu:23505/problemform
 
 ### Notes for second form:
+This creates an entry into http://linserv1.cims.nyu.edu:23505/problems
 
 ### URL to github that shows all commits since milestone #2 (see instructions at top of form), which should include any additional work you've done for research topics:
-
+[https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184/commits/master/?since=2024-04-19&until=2024-04-20
+](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184/compare/3897451...dd1151e)
 ### Add any special instructions for graders here (for example: outlining a specific interaction with your site, using specific credentials for authorization, etc.):
+None.
 
 ### References / Resources Used (write down any urls for documentation, tutorials, etc. that you've based your code off of):
+For D3. https://d3-graph-gallery.com/graph/barplot_basic.html
+
+D3 w/ React. https://kamibrumi.medium.com/getting-started-with-react-d3-js-d86ccea05f08
 
 <!--
 # AIT - Milestone #2
