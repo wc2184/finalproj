@@ -1,6 +1,64 @@
-# AIT - Milestone #3
+# AIT - Final Project Submission
+
+
+### Link to deployed site:
+
+
+### Link to final project repository (github repository for your final project):
+
+
+### URL for documentation (github link to your README.md / README.markdown):
+
+
+### URL for first form / AJAX Interaction:
+
+
+### Notes for first form / AJAX Interaction (how should this form be used?):
+
+
+### URL for second form / AJAX Interaction:
+
+
+### Notes for second form / AJAX Interaction (how should this form be used?):
+
+
+### URL for third form / AJAX Interaction:
+
+
+### Notes for third form / AJAX Interaction (how should this form be used?):
+
+
+### First link to github line number(s) for constructor, HOF, etc.:
+
+
+### Second link to github line number(s)  for constructor, HOF, etc.:
+
+
+### (Optional) Third link to github line number(s)  for constructor, HOF, etc.:
+
+
+### Short description of what each link above is, one line each (for example: myFunction is a hof that retrieves json from a url, map is used to transform the Array of Person objects into an Array of strings that represents names):
+
+
+### Link to github line number(s) for schemas (db.js or models folder):
+
+
+### Links to github line number(s), one per line, for research topics (for example, if using auth/passport, link to auth.js or where bulk of auth code is):
+
+
+### Description of research topics above, including point values for each, one per line. For example: 2 points - applied and modified "Clean Blog" Bootstrap theme.:
+
+
+### Optional project notes (any other information required for using/testing the final project):
+
+
+### Attributions - list sources that you have based your code off of, 1 per line, with file name, a very short description, and an accompanying url (routes/index.js - Authentication code based off of http://foo.bar/baz). If you have already placed annotations in your project, answer "See source code comments":
+
+
+
 <!-- [https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-wc2184) -->
 
+<!--
 ### URL for first form from milestone #2 (this should take you to a functioning form that's not registration or login):
 http://linserv1.cims.nyu.edu:23505/form
 
@@ -23,6 +81,7 @@ None.
 For D3. https://d3-graph-gallery.com/graph/barplot_basic.html
 
 D3 w/ React. https://kamibrumi.medium.com/getting-started-with-react-d3-js-d86ccea05f08
+--->
 
 <!--
 # AIT - Milestone #2
